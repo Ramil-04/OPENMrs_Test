@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OPENMrs Listing suite" verbose="1">
+
+    <test name="US_507-DeletePatient">
+        <classes>
+            <class name="Test.US_507_DeletePatient_POM"/>
+        </classes>
+    </test>
+
+    <test name="US_508- ListingPatient">
+        <classes>
+            <class name="Test.US_508_ListingPatient_POM"/>
+        </classes>
+    </test>
+
+</suite>

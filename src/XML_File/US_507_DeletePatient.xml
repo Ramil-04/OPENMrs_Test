@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<suite name ="OPENMrs Suite" verbose = "1" parallel="false">
+    <test name = "Delete Patient Tests">
+        <classes>
+            <class name = "Test.US_507_DeletePatient_POM"/>
+
+
+        </classes>
+    </test>
+</suite>
